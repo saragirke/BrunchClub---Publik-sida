@@ -1,4 +1,4 @@
-﻿# pPublik Webbplats till BrunchClub :bread: :watermelon: :tea:
+﻿# Publik Webbplats till BrunchClub :bread: :watermelon: :tea:
  
  ## Grundstruktur
 Till uppgfiten har en grundstruktur för webbutveckling skapats med hjälp av Gulp. Strukturen består av en mapp med namn "src" där projektets arbetsfiler ligger. 
