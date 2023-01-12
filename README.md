@@ -46,4 +46,4 @@ De två JS-filerna slås inte ihop i pub-mappen. Däremot minifieras de båda fi
 
  ## Länkt till webbplats
 https://studenter.miun.se/~sagi1700/writeable/brunchclubwebsite/index.html
-# BrunchClub---Publik-sida
+
